@@ -318,6 +318,7 @@ $light_gray:#eee;
   @media only screen and (max-width: 470px) {
     .thirdparty-button {
       display: none;
+      //text-align: center;
     }
   }
 }
